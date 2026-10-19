@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "StudyPulse - 100% Offline Student Assistant",
+  "short_name": "StudyPulse",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "orientation": "portrait-primary",
+  "description": "Minimalist, 100% offline personal student study copilot, timetable planner, homework & group task tracker, habit streaks, and focus timer.",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

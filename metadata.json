@@ -1,0 +1,6 @@
+{
+  "name": "StudyPulse - 100% Offline Student Assistant & Planner",
+  "description": "Minimalist, 100% offline personal student study copilot, timetable planner, homework & group task tracker, habit streaks, and focus timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
